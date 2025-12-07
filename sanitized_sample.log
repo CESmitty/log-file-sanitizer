@@ -1,0 +1,6 @@
+2025-12-05 21:55:01 INFO: User 'jsmith' logged in successfully from [ANONYMIZED_IP].
+2025-12-05 21:55:12 INFO: API call to service /data/v1/report initiated by [ANONYMIZED_IP].
+2025-12-05 21:55:15 ERROR: Failed to retrieve user data for ID 58392.
+2025-12-05 21:55:20 INFO: Data processing successful. Result status code 200.
+2025-12-05 21:55:25 WARNING: High latency detected for request from [ANONYMIZED_IP].
+2025-12-05 21:55:40 ERROR: Critical service failure. Rebooting cluster. Source IP: [ANONYMIZED_IP].

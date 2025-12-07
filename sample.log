@@ -1,0 +1,9 @@
+2025-12-05 21:55:01 INFO: User 'jsmith' logged in successfully from 192.168.1.42.
+2025-12-05 21:55:05 DEBUG: Database connection pool size is currently 10.
+2025-12-05 21:55:12 INFO: API call to service /data/v1/report initiated by 75.10.10.10.
+2025-12-05 21:55:15 ERROR: Failed to retrieve user data for ID 58392.
+2025-12-05 21:55:16 DEBUG: Cache hit for key 'session_token_1234'.
+2025-12-05 21:55:20 INFO: Data processing successful. Result status code 200.
+2025-12-05 21:55:25 WARNING: High latency detected for request from 203.0.113.55.
+2025-12-05 21:55:30 DEBUG: Worker thread 5 finished its task.
+2025-12-05 21:55:40 ERROR: Critical service failure. Rebooting cluster. Source IP: 10.0.0.1.
